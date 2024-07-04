@@ -1,0 +1,27 @@
+#=====================================#
+# update: 2024-07-03
+# Chinese domains
+#=====================================#
+
+HOST-SUFFIX,hellobike.com # 哈啰单车
+HOST-SUFFIX,12306.cn # 12306火车票
+HOST-SUFFIX,gov.cn # 政府类网站
+HOST-SUFFIX,org.cn # 政府类网站
+HOST-SUFFIX,alipay.com # 支付宝
+HOST-SUFFIX,alipayobjects.com # 支付宝
+HOST-SUFFIX,taobao.com # 淘宝
+HOST-SUFFIX,youku.com # 优酷
+HOST-SUFFIX,51downapp.cn # 哈啰单车
+HOST-SUFFIX,ttbike.com.cn # 哈啰单车
+HOST-SUFFIX,amap.com # 高德地图
+HOST-SUFFIX,aliyuncs.com # 阿里云计算
+HOST-SUFFIX,weixin.qq.com.cn # 微信
+HOST-SUFFIX,qq.com # QQ
+HOST-SUFFIX,2q10.com # 每日科技
+HOST-SUFFIX,spdb.com.cn # 浦发银行
+HOST-SUFFIX,bytedance.com # 抖音
+HOST-SUFFIX,snssdk.com # 抖音
+HOST-SUFFIX,fqnovel.com # 番茄小说
+
+# final
+HOST-SUFFIX,cn # CN类网站
