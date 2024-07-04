@@ -41,7 +41,7 @@ HOST-SUFFIX,qq.com
 HOST-SUFFIX,2q10.com
 
 # 浦发银行
-HOST-SUFFIX,spdb.com.cn
+# HOST-SUFFIX,spdb.com.cn
 
 # 抖音
 HOST-SUFFIX,bytedance.com
