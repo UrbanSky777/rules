@@ -66,5 +66,9 @@ HOST-SUFFIX,cibntv.net
 # 银联
 HOST-SUFFIX,CUP.COM.CN
 
+# 小桔科技
+HOST-SUFFIX,xiaojukeji.com
+HOST-SUFFIX,didistatic.com
+
 # final
 HOST-SUFFIX,cn
