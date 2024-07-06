@@ -11,6 +11,7 @@ HOST-SUFFIX,ttbike.com.cn
 
 # 12306火车票
 HOST-SUFFIX,12306.cn
+
 # 政府类网站
 HOST-SUFFIX,gov.cn
 HOST-SUFFIX,org.cn
@@ -21,15 +22,24 @@ HOST-SUFFIX,alipayobjects.com
 
 # 淘宝
 HOST-SUFFIX,taobao.com
+HOST-SUFFIX,tanx.com
 
-# 优酷
-HOST-SUFFIX,youku.com
-
-# 高德地图
-HOST-SUFFIX,amap.com
+# 阿里cdn
+HOST-SUFFIX,alicdn.com
 
 # 阿里云计算
 HOST-SUFFIX,aliyuncs.com
+
+# 什么值得买
+HOST-SUFFIX,smzdm.com
+HOST-SUFFIX,zdmimg.com
+
+# 优酷
+HOST-SUFFIX,youku.com
+HOST-SUFFIX,ykimg.com
+
+# 高德地图
+HOST-SUFFIX,amap.com
 
 # 微信
 HOST-SUFFIX,weixin.qq.com.cn
@@ -49,6 +59,12 @@ HOST-SUFFIX,snssdk.com
 
 # 番茄小说
 HOST-SUFFIX,fqnovel.com
+
+# 国广东方媒体运营服务商
+HOST-SUFFIX,cibntv.net
+
+# 银联
+HOST-SUFFIX,CUP.COM.CN
 
 # final
 HOST-SUFFIX,cn
