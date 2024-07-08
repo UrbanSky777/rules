@@ -30,6 +30,9 @@ HOST-SUFFIX,alicdn.com
 # 阿里云计算
 HOST-SUFFIX,aliyuncs.com
 
+# 橙盾
+HOST-SUFFIX,alibabachengdun.com
+
 # 什么值得买
 HOST-SUFFIX,smzdm.com
 HOST-SUFFIX,zdmimg.com
@@ -56,19 +59,59 @@ HOST-SUFFIX,2q10.com
 # 抖音
 HOST-SUFFIX,bytedance.com
 HOST-SUFFIX,snssdk.com
+HOST-SUFFIX,bytednsdoc.com
+HOST-SUFFIX,bytegecko.com
+HOST-SUFFIX,douyin.com
+HOST-SUFFIX,zijieapi.com
+HOST-SUFFIX,byteos.com
+HOST-SUFFIX,byteimg.com
+
+# 瑞星咖啡
+HOST-SUFFIX,luckincoffeecdn.com
+HOST-SUFFIX,lkcoffee.com
+
+# 小米
+HOST-SUFFIX,mi.com
+HOST-SUFFIX,mijia.tech
+HOST-SUFFIX,mi-img.com
+HOST-SUFFIX,xiaomi.com
+HOST-SUFFIX,xiaomi.net
+HOST-SUFFIX,xiaomiyoupin.com
 
 # 番茄小说
 HOST-SUFFIX,fqnovel.com
+HOST-SUFFIX,fqnovelpic.com
 
 # 国广东方媒体运营服务商
 HOST-SUFFIX,cibntv.net
 
 # 银联
-HOST-SUFFIX,CUP.COM.CN
+HOST-SUFFIX,cup.com.cn
 
 # 小桔科技
 HOST-SUFFIX,xiaojukeji.com
 HOST-SUFFIX,didistatic.com
+
+# 灵羊文化传播有限公司
+HOST-SUFFIX,hdslb.com
+
+# 126
+HOST-SUFFIX,126.com
+
+# 163
+HOST-SUFFIX,163.com
+
+# 每日科技
+HOST-SUFFIX,appcloudcdn.com
+
+# 上海格物致品网络科技有限公司
+HOST-SUFFIX,ecombdapi.com
+
+# 联通
+HOST-SUFFIX,10010.com
+
+# 火山引擎科技有限公司
+HOST-SUFFIX,volces.com
 
 # final
 HOST-SUFFIX,cn
