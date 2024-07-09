@@ -113,5 +113,18 @@ HOST-SUFFIX,10010.com
 # 火山引擎科技有限公司
 HOST-SUFFIX,volces.com
 
+# 企查查
+HOST-SUFFIX,qcc.com
+HOST-SUFFIX,qichacha.net
+
+# 上海创蓝云智信息科技股份有限公司
+HOST-SUFFIX,cl2009.com
+
+# 百度
+HOST-SUFFIX,baidu.com
+
+# 微博
+HOST-SUFFIX,weibo.com
+
 # final
 HOST-SUFFIX,cn
