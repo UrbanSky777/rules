@@ -20,15 +20,18 @@ HOST-SUFFIX,org.cn
 HOST-SUFFIX,alipay.com
 HOST-SUFFIX,alipayobjects.com
 
-# 淘宝
+# 阿里巴巴
 HOST-SUFFIX,taobao.com
 HOST-SUFFIX,tanx.com
-
-# 阿里cdn
 HOST-SUFFIX,alicdn.com
-
-# 阿里云计算
 HOST-SUFFIX,aliyuncs.com
+HOST-SUFFIX,alibaba-inc.com
+HOST-SUFFIX,alibaba.com
+HOST-SUFFIX,aliyundrive.com
+HOST-SUFFIX,aliyundrive.net
+HOST-SUFFIX,alipan.com
+HOST-SUFFIX,goofish.com
+HOST-SUFFIX,alibabausercontent.com
 
 # 橙盾
 HOST-SUFFIX,alibabachengdun.com
@@ -43,11 +46,15 @@ HOST-SUFFIX,ykimg.com
 
 # 高德地图
 HOST-SUFFIX,amap.com
+HOST-SUFFIX,autonavi.com
 
-# 微信
+# 腾讯
+HOST-SUFFIX,myqcloud.com
+HOST-SUFFIX,tencentmusic.com
+HOST-SUFFIX,tencentcs.com
+HOST-SUFFIX,qcloudimg.com
+HOST-SUFFIX,tencent.com
 HOST-SUFFIX,weixin.qq.com.cn
-
-# QQ
 HOST-SUFFIX,qq.com
 
 # 每日科技
@@ -116,15 +123,66 @@ HOST-SUFFIX,volces.com
 # 企查查
 HOST-SUFFIX,qcc.com
 HOST-SUFFIX,qichacha.net
+HOST-SUFFIX,qichacha.com
 
 # 上海创蓝云智信息科技股份有限公司
 HOST-SUFFIX,cl2009.com
 
 # 百度
 HOST-SUFFIX,baidu.com
+HOST-SUFFIX,bdimg.com
+HOST-SUFFIX,bcebos.com
 
 # 微博
 HOST-SUFFIX,weibo.com
+
+# 喜茶
+HOST-SUFFIX,heytea.com
+
+# 喜马拉雅
+HOST-SUFFIX,ximalaya.com
+HOST-SUFFIX,xmcdn.com
+
+# 环胜电子商务（上海）有限公司
+HOST-SUFFIX,yumchina.com
+
+# 北京金山云网络技术有限公司
+HOST-SUFFIX,ksyun.com
+
+# 百胜咨询（上海）有限公司
+HOST-SUFFIX,hwwt8.com
+
+# 上海七牛信息技术有限公司
+HOST-SUFFIX,hiecheimaetu.com
+
+# 广东优识科技股份有限公司
+HOST-SUFFIX,ujinbi.com
+
+# 北京博睿宏远数据科技股份有限公司
+HOST-SUFFIX,bonree.com
+
+# 北京阳光海天停车管理有限公司
+HOST-SUFFIX,sunsea.net
+
+# 北京停简单信息技术有限公司
+HOST-SUFFIX,tingjiandan.com
+
+# 数据派
+HOST-SUFFIX,shujupie.com
+
+# 美团
+HOST-SUFFIX,meituan.com
+HOST-SUFFIX,meituan.net
+
+# 杭州迪火科技有限公司
+HOST-SUFFIX,2dfire.com
+
+# 大众点评
+HOST-SUFFIX,dpfile.com
+HOST-SUFFIX,dianping.com
+
+# 上海创蓝云智信息科技股份有限公司
+HOST-SUFFIX,cl2009.com
 
 # final
 HOST-SUFFIX,cn
