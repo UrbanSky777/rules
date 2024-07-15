@@ -72,6 +72,13 @@ HOST-SUFFIX,douyin.com
 HOST-SUFFIX,zijieapi.com
 HOST-SUFFIX,byteos.com
 HOST-SUFFIX,byteimg.com
+HOST-SUFFIX,pstatp.com
+
+# CSDN
+HOST-SUFFIX,csdn.net
+
+# 薄荷
+HOST-SUFFIX,boohee.com
 
 # 瑞星咖啡
 HOST-SUFFIX,luckincoffeecdn.com
@@ -102,10 +109,12 @@ HOST-SUFFIX,didistatic.com
 # 灵羊文化传播有限公司
 HOST-SUFFIX,hdslb.com
 
-# 126
+# 网易
 HOST-SUFFIX,126.com
-
-# 163
+HOST-SUFFIX,126.net
+HOST-SUFFIX,yunxindns.com
+HOST-SUFFIX,qiyukf.com
+HOST-SUFFIX,netease.im
 HOST-SUFFIX,163.com
 
 # 每日科技
