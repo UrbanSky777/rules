@@ -32,6 +32,7 @@ HOST-SUFFIX,aliyundrive.net
 HOST-SUFFIX,alipan.com
 HOST-SUFFIX,goofish.com
 HOST-SUFFIX,alibabausercontent.com
+HOST-SUFFIX,aliyun.com
 
 # 橙盾
 HOST-SUFFIX,alibabachengdun.com
@@ -73,6 +74,12 @@ HOST-SUFFIX,zijieapi.com
 HOST-SUFFIX,byteos.com
 HOST-SUFFIX,byteimg.com
 HOST-SUFFIX,pstatp.com
+HOST-SUFFIX,bytegoofy.com
+HOST-SUFFIX,toutiaoimg.com
+HOST-SUFFIX,toutiao.com
+HOST-SUFFIX,toutiaoapi.com
+HOST-SUFFIX,bytescm.com
+HOST-SUFFIX,ibytedapm.com
 
 # CSDN
 HOST-SUFFIX,csdn.net
@@ -195,6 +202,16 @@ HOST-SUFFIX,cl2009.com
 
 # 江苏小旗欧飞科技有限公司
 HOST-SUFFIX,ofpay.com
+
+# 微软
+HOST-SUFFIX,hotmail.com
+
+# 科沃斯
+HOST-SUFFIX,ecouser.net
+
+# 深圳市虹红科技有限公司
+HOST-SUFFIX,echatsoft.com
+
 
 # final
 HOST-SUFFIX,cn
