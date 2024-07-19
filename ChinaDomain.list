@@ -33,6 +33,8 @@ HOST-SUFFIX,alipan.com
 HOST-SUFFIX,goofish.com
 HOST-SUFFIX,alibabausercontent.com
 HOST-SUFFIX,aliyun.com
+HOST-SUFFIX,dingtalk.com
+HOST-SUFFIX,aliapp.org
 
 # 橙盾
 HOST-SUFFIX,alibabachengdun.com
@@ -80,6 +82,20 @@ HOST-SUFFIX,toutiao.com
 HOST-SUFFIX,toutiaoapi.com
 HOST-SUFFIX,bytescm.com
 HOST-SUFFIX,ibytedapm.com
+HOST-SUFFIX,vegslb.com
+
+# 淘票票
+HOST-SUFFIX,taopiaopiao.com
+
+# 饿了么
+HOST-SUFFIX,ele.me
+HOST-SUFFIX,elemecdn.com
+
+# 上海游昆信息技术有限公司（短链接服务）
+HOST-SUFFIX,tec73.com
+
+# 北京三快科技有限公司
+HOST-SUFFIX,sankuai.com
 
 # CSDN
 HOST-SUFFIX,csdn.net
@@ -148,6 +164,12 @@ HOST-SUFFIX,cl2009.com
 HOST-SUFFIX,baidu.com
 HOST-SUFFIX,bdimg.com
 HOST-SUFFIX,bcebos.com
+HOST-SUFFIX,baidupcs.com
+HOST-SUFFIX,bdstatic.com
+HOST-SUFFIX,nuomi.com
+
+# 蜻蜓 FM
+HOST-SUFFIX,qingting.fm
 
 # 微博
 HOST-SUFFIX,weibo.com
@@ -212,6 +234,8 @@ HOST-SUFFIX,ecouser.net
 # 深圳市虹红科技有限公司
 HOST-SUFFIX,echatsoft.com
 
+# 站长之家
+HOST-SUFFIX,chinaz.com
 
 # final
 HOST-SUFFIX,cn
