@@ -59,6 +59,7 @@ HOST-SUFFIX,qcloudimg.com
 HOST-SUFFIX,tencent.com
 HOST-SUFFIX,weixin.qq.com.cn
 HOST-SUFFIX,qq.com
+HOST-SUFFIX,qqmail.com
 
 # 每日科技
 HOST-SUFFIX,2q10.com
@@ -139,6 +140,7 @@ HOST-SUFFIX,yunxindns.com
 HOST-SUFFIX,qiyukf.com
 HOST-SUFFIX,netease.im
 HOST-SUFFIX,163.com
+HOST-SUFFIX,127.net
 
 # 每日科技
 HOST-SUFFIX,appcloudcdn.com
@@ -236,6 +238,18 @@ HOST-SUFFIX,echatsoft.com
 
 # 站长之家
 HOST-SUFFIX,chinaz.com
+
+# 云停智通
+HOST-SUFFIX,yuntingiot.com
+
+# 山东聚能汇充信息科技服务有限公司
+HOST-SUFFIX,yunzongnet.com
+
+# 深圳市风云易停车广告传媒有限公司
+HOST-SUFFIX,appykt.com
+
+# 建设银行
+HOST-SUFFIX,ccb.com
 
 # final
 HOST-SUFFIX,cn
