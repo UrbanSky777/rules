@@ -141,6 +141,7 @@ HOST-SUFFIX,qiyukf.com
 HOST-SUFFIX,netease.im
 HOST-SUFFIX,163.com
 HOST-SUFFIX,127.net
+HOST-SUFFIX,163yun.com
 
 # 每日科技
 HOST-SUFFIX,appcloudcdn.com
@@ -247,6 +248,15 @@ HOST-SUFFIX,yunzongnet.com
 
 # 深圳市风云易停车广告传媒有限公司
 HOST-SUFFIX,appykt.com
+
+# 京东
+HOST-SUFFIX,jd.com
+
+# 趣街（天津）科技有限公司
+HOST-SUFFIX,qujie365.com
+
+# 360
+HOST-SUFFIX,360buyimg.com
 
 # 建设银行
 HOST-SUFFIX,ccb.com
