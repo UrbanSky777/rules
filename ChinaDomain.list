@@ -20,7 +20,7 @@ HOST-SUFFIX,org.cn
 HOST-SUFFIX,alipay.com
 HOST-SUFFIX,alipayobjects.com
 
-# 阿里巴巴
+# 阿里系
 HOST-SUFFIX,taobao.com
 HOST-SUFFIX,tanx.com
 HOST-SUFFIX,alicdn.com
@@ -35,6 +35,7 @@ HOST-SUFFIX,alibabausercontent.com
 HOST-SUFFIX,aliyun.com
 HOST-SUFFIX,dingtalk.com
 HOST-SUFFIX,aliapp.org
+HOST-SUFFIX,tmall.com
 
 # 橙盾
 HOST-SUFFIX,alibabachengdun.com
@@ -51,7 +52,7 @@ HOST-SUFFIX,ykimg.com
 HOST-SUFFIX,amap.com
 HOST-SUFFIX,autonavi.com
 
-# 腾讯
+# 腾讯系
 HOST-SUFFIX,myqcloud.com
 HOST-SUFFIX,tencentmusic.com
 HOST-SUFFIX,tencentcs.com
@@ -60,12 +61,12 @@ HOST-SUFFIX,tencent.com
 HOST-SUFFIX,weixin.qq.com.cn
 HOST-SUFFIX,qq.com
 HOST-SUFFIX,qqmail.com
+HOST-SUFFIX,wxcloudrun.com
 
 # 每日科技
 HOST-SUFFIX,2q10.com
 
-# 浦发银行
-# HOST-SUFFIX,spdb.com.cn
+
 
 # 抖音
 HOST-SUFFIX,bytedance.com
@@ -84,6 +85,11 @@ HOST-SUFFIX,toutiaoapi.com
 HOST-SUFFIX,bytescm.com
 HOST-SUFFIX,ibytedapm.com
 HOST-SUFFIX,vegslb.com
+HOST-SUFFIX,bytedanceapi.com
+HOST-SUFFIX,bytemastatic.com
+HOST-SUFFIX,toutiaostatic.com
+HOST-SUFFIX,bytedance.net
+HOST-SUFFIX,huoshanstatic.com
 
 # 淘票票
 HOST-SUFFIX,taopiaopiao.com
@@ -133,7 +139,7 @@ HOST-SUFFIX,didistatic.com
 # 灵羊文化传播有限公司
 HOST-SUFFIX,hdslb.com
 
-# 网易
+# 网易系
 HOST-SUFFIX,126.com
 HOST-SUFFIX,126.net
 HOST-SUFFIX,yunxindns.com
@@ -170,6 +176,8 @@ HOST-SUFFIX,bcebos.com
 HOST-SUFFIX,baidupcs.com
 HOST-SUFFIX,bdstatic.com
 HOST-SUFFIX,nuomi.com
+HOST-SUFFIX,jomoxd.com
+HOST-SUFFIX,baike.com
 
 # 蜻蜓 FM
 HOST-SUFFIX,qingting.fm
@@ -251,15 +259,96 @@ HOST-SUFFIX,appykt.com
 
 # 京东
 HOST-SUFFIX,jd.com
+HOST-SUFFIX,jdpay.com
+HOST-SUFFIX,jd.com
+HOST-SUFFIX,jddebug.com
 
 # 趣街（天津）科技有限公司
 HOST-SUFFIX,qujie365.com
 
-# 360
+# 360系
 HOST-SUFFIX,360buyimg.com
 
-# 建设银行
+# 北京易成星光科技有限公司
+HOST-SUFFIX,pingcode.com
+
+# 北京易数科技有限公司
+HOST-SUFFIX,giocdn.com
+
+# 北京云中融信网络科技有限公司
+HOST-SUFFIX,rongnav.com
+HOST-SUFFIX,ronghub.com
+
+# 博客园
+HOST-SUFFIX,cnblogs.com
+
+# 哆啦宝（北京）科技有限公司
+HOST-SUFFIX,duolabao.com
+
+# 环玺信息科技（上海）有限公司
+HOST-SUFFIX,globalsign.com
+
+# 深圳市网心科技有限公司
+HOST-SUFFIX,kuiniuca.com
+HOST-SUFFIX,xycdn.com
+
+# 上海海笛数字出版科技有限公司
+HOST-SUFFIX,haidii.com
+
+# 上海格物致品网络科技有限公司
+HOST-SUFFIX,ecombdimg.com
+
+# 上海顿口终结者户外用品有限公司
+HOST-SUFFIX,a5b.cc
+
+# 瑞思英语培训
+HOST-SUFFIX,riselinkedu.com
+
+# 上海锐成信息科技有限公司
+HOST-SUFFIX,sectigochina.com
+
+# 上海收钱吧互联网科技股份有限公司
+HOST-SUFFIX,shouqianba.com
+
+# 下厨房
+HOST-SUFFIX,xiachufang.com
+
+# 每日互动股份有限公司
+HOST-SUFFIX,getui.net
+
+# 陆金所
+HOST-SUFFIX,lu.com
+
+# 银行
+## 建设银行
 HOST-SUFFIX,ccb.com
+## 招商银行
+HOST-SUFFIX,cmbimg.com
+HOST-SUFFIX,cmbchina.com
+## 农业银行
+HOST-SUFFIX,abchina.com
+## 浦发银行
+HOST-SUFFIX,spdb.com.cn
+## 广发银行
+HOST-SUFFIX,95508.com
+
+# 保险
+## 平安保险
+HOST-SUFFIX,1qianbao.com
+HOST-SUFFIX,pa18.com
+HOST-SUFFIX,pingan.com
+
+# 北京红番茄联众通信技术有限公司
+HOST-SUFFIX,300hu.com
+
+# 拼多多
+HOST-SUFFIX,pinduoduo.com
+HOST-SUFFIX,yangkeduo.com
+HOST-SUFFIX,pddpic.com
+
+# 知乎
+HOST-SUFFIX,zhimg.com
+HOST-SUFFIX,zhihu.com
 
 # final
 HOST-SUFFIX,cn
